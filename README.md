@@ -1,5 +1,5 @@
 # 💫 About Me:
-📌 I'm currently working on: WeedWatcher (AI-driven weed detection)<br>🤝 I'm looking to collaborate on: AI-powered web applications & open-source projects<br>🛠️ I'm looking for help with: Optimizing AI models for real-time performance<br>🌱 I'm currently learning: React with Next.js, advanced AI techniques<br>💬 Ask me about: Web development, AI projects, and gaming<br>⚡ Fun fact: I game as much as I code 🎮
+📌 I'm currently working on: TraderTrackr (Advance trade journel)<br>🤝 I'm looking to collaborate on: AI-powered web applications & open-source projects<br>🛠️ I'm looking for help with: Optimizing AI models for real-time performance<br>🌱 I'm currently learning: React with Next.js, advanced AI techniques<br>💬 Ask me about: Web development, AI projects, and gaming<br>⚡ Fun fact: I game as much as I code 🎮
 
 
 ## 🌐 Socials:
